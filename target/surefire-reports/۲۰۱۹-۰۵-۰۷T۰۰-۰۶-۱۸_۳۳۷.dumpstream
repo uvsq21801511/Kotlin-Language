@@ -1,0 +1,15 @@
+# Created at ۲۰۱۹-۰۵-۰۷T۰۰:۰۶:۲۱.۰۴۲
+WARNING: An illegal reflective access operation has occurred
+
+# Created at ۲۰۱۹-۰۵-۰۷T۰۰:۰۶:۲۱.۰۴۳
+WARNING: Illegal reflective access by org.jruby.util.io.ChannelDescriptor (file:/Users/mac/.m2/repository/org/jruby/jruby-complete/1.7.23/jruby-complete-1.7.23.jar) to method sun.nio.ch.SelChImpl.getFD()
+
+# Created at ۲۰۱۹-۰۵-۰۷T۰۰:۰۶:۲۱.۰۴۴
+WARNING: Please consider reporting this to the maintainers of org.jruby.util.io.ChannelDescriptor
+
+# Created at ۲۰۱۹-۰۵-۰۷T۰۰:۰۶:۲۱.۰۴۵
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+
+# Created at ۲۰۱۹-۰۵-۰۷T۰۰:۰۶:۲۱.۰۴۶
+WARNING: All illegal access operations will be denied in a future release
+

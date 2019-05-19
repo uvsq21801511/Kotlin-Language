@@ -1,0 +1,5 @@
+= ta
+t <t@gmail.com>
+۰۵/۰۲/۲۰۱۹ ۱۵:۳۳:۱۷
+:context: work
+:project: programmation

@@ -1,0 +1,5 @@
+= ee
+dd <dd@dd.dd>
+:date:۰۵/۰۲/۲۰۱۹ ۲۱:۱۷:۲۷
+:context: sd
+:project: sd

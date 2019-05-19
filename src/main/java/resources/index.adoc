@@ -1,0 +1,60 @@
+    ====>   .adoc
+ csdcsdc   ====>   ff.adoc
+ dfdfd gdg   ====>   v.adoc
+ mr prg   ====>   my name.adoc
+ my   ====>   fff.adoc
+ my prg   ====>   fa.adoc
+ my prg</p>   ====>   fa.html
+ my program   ====>   file.adoc
+ my program</p>   ====>   file.html
+ my project   ====>   Hello world!.adoc
+ pglp   ====>   te.adoc
+ prg   ====>   bon a t.adoc
+ prog   ====>   moh.adoc
+ programation   ====>   file2.adoc
+ programmation   ====>   ta.adoc
+ programmation   ====>   td.adoc
+ programming   ====>   tata.adoc
+ sd   ====>   ee.adoc
+ this prg   ====>   bonjour.adoc
+ work   ====>   test.adoc
+ www.www.www</p>   ====>   n.html
+ zzzz   ====>   ffffdf.adoc
+.....................................
+ wwwcon   ====>   n.html
+ sd   ====>   ee.adoc
+ contex   ====>   moh.adoc
+ my cont   ====>   fa.html
+ my list   ====>   file.adoc
+ work   ====>   ta.adoc
+ pglp   ====>   test.adoc
+ work   ====>   tata.adoc
+ this contrxt   ====>   file2.adoc
+ my list   ====>   file.html
+ csdcs   ====>   ff.adoc
+ col   ====>   fff.adoc
+ sd   ====>   ffffdf.adoc
+ eg er   ====>   v.adoc
+ work   ====>   te.adoc
+ my cont   ====>   fa.adoc
+ this context   ====>   bonjour.adoc
+ my context   ====>   Hello world!.adoc
+ my index   ====>   my name.adoc
+ cont   ====>   bon a t.adoc
+ work   ====>   td.adoc
+    ====>   .adoc
+......................................
+۰۵/۰۲/۲۰۱۹ ۲۰:۴۴:۱۷   ====>   n.html
+۰۵/۰۲/۲۰۱۹ ۲۱:۱۷:۲۷   ====>   ee.adoc
+۰۵/۰۲/۲۰۱۹ ۲۰:۵۴:۱۷   ====>   moh.adoc
+۰۵/۰۲/۲۰۱۹ ۲۰:۴۲:۲۱   ====>   fa.html
+۰۵/۰۳/۲۰۱۹ ۱۰:۲۷:۳۹   ====>   file.adoc
+۰۵/۰۳/۲۰۱۹ ۱۰:۲۷:۳۹   ====>   file.html
+۰۵/۰۶/۲۰۱۹ ۲۳:۵۴:۰۲   ====>   ff.adoc
+۰۵/۰۶/۲۰۱۹ ۲۳:۲۹:۰۶   ====>   fff.adoc
+۰۵/۰۲/۲۰۱۹ ۲۰:۴۷:۰۶   ====>   ffffdf.adoc
+۰۵/۰۲/۲۰۱۹ ۲۱:۳۰:۴۲   ====>   v.adoc
+۰۵/۰۲/۲۰۱۹ ۲۰:۴۲:۲۱   ====>   fa.adoc
+۰۵/۰۷/۲۰۱۹ ۰۰:۱۰:۱۰   ====>   Hello world!.adoc
+۰۵/۰۶/۲۰۱۹ ۲۳:۵۵:۴۵   ====>   my name.adoc
+۰۵/۰۷/۲۰۱۹ ۰۰:۰۸:۰۹   ====>   .adoc

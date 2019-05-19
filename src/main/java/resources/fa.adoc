@@ -1,0 +1,5 @@
+= fa
+de <ze@fdg.co>
+:date:۰۵/۰۲/۲۰۱۹ ۲۰:۴۲:۲۱
+:context: my cont
+:project: my prg
