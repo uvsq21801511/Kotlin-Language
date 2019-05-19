@@ -79,6 +79,9 @@
       <dir>$PROJECT_DIR$/src/main/java/uvsq21801511</dir>
     </dirStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -111,10 +114,12 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+    <option name="x" value="202" />
+    <option name="y" value="28" />
     <option name="width" value="1440" />
     <option name="height" value="806" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -321,7 +326,7 @@
       <workItem from="1557146204718" duration="2251000" />
       <workItem from="1557158088406" duration="19389000" />
       <workItem from="1557396210474" duration="125000" />
-      <workItem from="1558291407552" duration="619000" />
+      <workItem from="1558291407552" duration="880000" />
     </task>
     <servers />
   </component>
@@ -358,7 +363,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85661000" />
+    <option name="totallyTimeSpent" value="85922000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="806" extended-state="0" />
@@ -377,7 +382,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.19607843" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.5406163" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007153" side_tool="true" weight="0.18487395" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3277311" />
