@@ -11,6 +11,9 @@
 
 ## [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 
+IntelliJ IDEA is an IDE. The JetBrains product for the development of web and Windows software as well as many applications.
+It is developed by JetBrains (formerly known as IntelliJ), and is available as an Apache 2 Licensed community edition,[5] and in a proprietary commercial edition. Both can be used for commercial development.
+IntelliJ offers developers a number of tools for refactoring, software testing, and more. In particular, the code coverage analysis and the integrated version controls systems are both particularly helpful.  IntelliJ supports lots of other languages, including Java, Groovy, and Scala. More options are available in the Ultimate version. However, the relatively stripped down Community version is still a powerful option for developers.
 
 ## [Eclipse Neon](https://www.eclipse.org/downloads/)
 One of the other IDEs that can be named is the Eclipse.  To use Kotlin on the Eclipse, the plugin must be added. for more details you can see [Getting Started with Eclipse Neon](https://kotlinlang.org/docs/tutorials/getting-started-eclipse.html).
