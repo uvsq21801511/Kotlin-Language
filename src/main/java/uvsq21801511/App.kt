@@ -10,7 +10,6 @@ object App {
 
 
     @JvmStatic fun  main(args: Array<String>) {
-
         val ci = CommandInvoker()
         val i = Interpreter()
         val ent = Entrance()

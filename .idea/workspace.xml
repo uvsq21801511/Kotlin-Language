@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="03b12061-719a-422b-9832-908932307509" name="Default Changelist" comment="" />
+    <list default="true" id="03b12061-719a-422b-9832-908932307509" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/uvsq21801511/App.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uvsq21801511/App.kt" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,8 +17,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/uvsq21801511/App.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="72" column="3" selection-start-line="72" selection-start-column="3" selection-end-line="72" selection-end-column="3" />
+            <state relative-caret-position="165">
+              <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -106,10 +108,10 @@
         <option value="$PROJECT_DIR$/src/main/java/uvsq21801511/App.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/uvsq21801511/CommandInvoker.kt" />
-        <option value="$PROJECT_DIR$/src/main/java/uvsq21801511/App.kt" />
         <option value="$PROJECT_DIR$/src/main/java/uvsq21801511/Entrance.kt" />
         <option value="$PROJECT_DIR$/src/test/java/uvsq21801511/TestCase.kt" />
         <option value="$PROJECT_DIR$/src/main/java/uvsq21801511/Interpreter.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/uvsq21801511/App.kt" />
       </list>
     </option>
   </component>
@@ -199,7 +201,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557180826024" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558293851695" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last.edited.regexp" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -326,7 +328,7 @@
       <workItem from="1557146204718" duration="2251000" />
       <workItem from="1557158088406" duration="19389000" />
       <workItem from="1557396210474" duration="125000" />
-      <workItem from="1558291407552" duration="880000" />
+      <workItem from="1558291407552" duration="1120000" />
     </task>
     <servers />
   </component>
@@ -363,10 +365,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85922000" />
+    <option name="totallyTimeSpent" value="86735000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="806" extended-state="0" />
+    <frame x="202" y="28" width="1440" height="806" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.108726755" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -382,7 +385,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.5406163" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.26750702" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007153" side_tool="true" weight="0.18487395" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3277311" />
@@ -650,8 +653,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/uvsq21801511/App.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="72" column="3" selection-start-line="72" selection-start-column="3" selection-end-line="72" selection-end-column="3" />
+        <state relative-caret-position="165">
+          <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
         </state>
       </provider>
     </entry>
