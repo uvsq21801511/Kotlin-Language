@@ -9,6 +9,7 @@
 
 [learning resources](resource.md)
 
+# Major third-party libraries
 
 ## A number of Kotlin third-party libraries
 
