@@ -1,4 +1,4 @@
-# Kotlin-Language
+# Langage Kotlin
 # Application de prise de notes avec asciidoctor
 #### Voir le le site https://asciidoctor.org/
 
@@ -13,8 +13,6 @@ L’application proposera les fonctionnalités suivantes :
 6- À chaque mise à jour, un ﬁchier index.adoc sera générée qui contiendra des listes denotes classées par ordre alphabétique de titre selon diﬀérents critères de regroupement : toutes les notes, selon l’attribut contexte, selon l’attribut projet et enﬁn par mois.
 7- le répertoire de stockage des notes, les applications externes à utiliser, ...devront être modiﬁables dans un ﬁchier de conﬁguration.
 ```
-
-
 
 ## Development tools
 
