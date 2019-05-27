@@ -11,6 +11,7 @@
 # Development tools
 
 
+
 ## [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 
 IntelliJ IDEA is an IDE. The JetBrains product for the development of web and Windows software as well as many applications.
