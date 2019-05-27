@@ -8,7 +8,7 @@
 
 [learning resources](resource.md)
 
-## Kotlin Standard Library
+# Kotlin Standard Library
 
 The standard library functions are built-in functions in Kotlin that are readily available for use. 
 There are a number of main libraries in Kotlin, such as:
